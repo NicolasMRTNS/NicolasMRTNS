@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a graduate full stack software developer from France. I'm currently working as a full stack developer at <a href="https://exotrail.com/">Exotrail</a> in Toulouse until February the 28th 2022.
+I'm a software engineer from France. I'm currently working as at Capgemini on an Airbus project.
 
 **About me**
 
-- 💼 Full stack software developer at [Exotrail](https://exotrail.com/).
+- 💼 Software engineer at Capgemini.
 
 - 📈 I have a passion for software development and a strong desire to learn new technologies.
 
