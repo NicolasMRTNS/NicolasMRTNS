@@ -1,4 +1,4 @@
-I'm a software engineer from France. I'm currently working as at OpenAirlines.
+I'm a software engineer from France. I'm currently working at OpenAirlines.
 
 **About me**
 
