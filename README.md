@@ -1,26 +1,14 @@
-<p align="center"><a href="https://github.com/NicolasMRTNS"><img width="80%" src="./assets/header.png" /></a></p>
-
-<br />
-
-I'm a software engineer from France. I'm currently working as at Capgemini on an Airbus project.
+I'm a software engineer from France. I'm currently working as at OpenAirlines.
 
 **About me**
 
-- 💼 Software engineer at Capgemini.
+- 💼 Software engineer at OpenAirlines.
 
 - 📈 I have a passion for software development and a strong desire to learn new technologies.
 
-- ❤️ I love Vue, Angular, JavaScript, TypeScript, Java Spring Boot and everything web-related.
+- ❤️ I love Vue, Java, Spring Boot, Kotlin, Zig and leaning new and exiting languages.
 
 - 💬 You can contact me on GitHub, [LinkedIn](https://www.linkedin.com/in/nicolas-martins-a7316212b/) or by <a href="mailto:nicolas.martins@hotmail.fr">email</a>.
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasMRTNS&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="NicolasMRTNS's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMRTNS&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
