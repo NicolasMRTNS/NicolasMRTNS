@@ -6,7 +6,7 @@ I'm a software engineer from France. I'm currently working at OpenAirlines.
 
 - 📈 I have a passion for software development and a strong desire to learn new technologies.
 
-- ❤️ I love Vue, Java, Spring Boot, Kotlin, Zig and leaning new and exiting languages.
+- ❤️ I love Vue, Java, Spring Boot, Kotlin, Zig and learning new and exiting languages.
 
 - 💬 You can contact me on GitHub, [LinkedIn](https://www.linkedin.com/in/nicolas-martins-a7316212b/) or by <a href="mailto:nicolas.martins@hotmail.fr">email</a>.
 
